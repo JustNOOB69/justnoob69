@@ -71,6 +71,6 @@ Additionally, I love to grind 24/7 with my homies in tight-knit circles in the l
 
 <br>
 
-# Contributing 
+## Contributing 
 **Contributions are Welcome!** 
 **If you have suggestions or improvements, please fork the repo and submit a pull request.**
