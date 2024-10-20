@@ -49,7 +49,7 @@ Additionally, I love to grind 24/7 with my homies in tight-knit circles in the l
 
 <br>
 
-## 💬 Connect With Me
+## Connect With Me
 <table>
     <tr>
         <td align="center">
@@ -68,8 +68,6 @@ Additionally, I love to grind 24/7 with my homies in tight-knit circles in the l
         </td>
     </tr>
 </table>
-
-<br>
 
 ## Contributing 
 **Contributions are Welcome!** 
